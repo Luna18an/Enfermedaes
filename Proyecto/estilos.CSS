@@ -1,0 +1,30 @@
+.divcontenedor
+{
+border:1px solid black;
+width:99%;
+height:auto;
+padding:5px;
+background:#A9DFBF;
+}
+
+
+.divA
+{
+border:1px solid black;
+width:230;
+height:190%;
+margin:5px;
+padding:15px;
+float:right;
+background:silver;
+}
+.divB
+{
+border:1px solid black;
+width:65%;
+height:auto;
+margin:5px;
+padding:18px;
+float:left;
+background:silver;
+}
